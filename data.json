@@ -1,0 +1,21 @@
+[
+    {   
+        "image": "https://m.media-amazon.com/images/I/61EXU8BuGZL._SX569_.jpg",
+        "url" : "https://amzn.to/3oWgYor",
+        "title": "Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)",
+        "category": "Gadget"
+    },
+    {   
+        "image": "https://m.media-amazon.com/images/I/41r6F2LRf8L._SX323_BO1,204,203,200_.jpg",
+        "url" : "https://amzn.to/43WAbFB",
+        "title": "The Psychology of Money",
+        "category": "Books"
+    },
+    {   
+        "image": "https://m.media-amazon.com/images/I/41biyRHud9L._SX313_BO1,204,203,200_.jpg",
+        "url" : "https://amzn.to/45Yq9Ft",
+        "title": "Get Epic Shit Done ",
+        "category": "Books"
+    }
+    
+]
