@@ -14,8 +14,13 @@
     {   
         "image": "https://m.media-amazon.com/images/I/41biyRHud9L._SX313_BO1,204,203,200_.jpg",
         "url" : "https://amzn.to/45Yq9Ft",
-        "title": "Get Epic Shit Done ",
+        "title": "Get Epic Shit Done",
         "category": "Books"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71UlEDZPiCL._SY450_.jpg",
+        "url" : "https://amzn.to/3P76sW5",
+        "title": "Boldfit Shoe Bag for Travel & Storage",
+        "category": "Best Seller"   
     }
-    
 ]
