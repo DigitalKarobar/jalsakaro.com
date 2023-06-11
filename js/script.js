@@ -22,7 +22,7 @@ function displayProduct(product) {
                     
                     <div class="d-flex justify-content-between">
                         <a class="btn btn-sm btn-primary rounded py-2 px-4" href="${url}">View Detail</a>
-                        <a class="btn btn-sm btn-dark rounded py-2 px-4" href="${url}">Book Now</a>
+                        <a class="btn btn-sm btn-dark rounded py-2 px-4" href="${url}">Buy Now</a>
                     </div>
                 </div>
             </div>
