@@ -12,7 +12,7 @@ function displayProduct(product) {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="room-item shadow rounded overflow-hidden">
                 <div class="position-relative">
-                    <img class="img-fluid" src="${image}" alt="${title}" style="height: 430px">
+                    <a href="${url}"><img class="img-fluid" src="${image}" alt="${title}" style="height: 430px"></a>
                     <small class="position-absolute start-0 top-100 translate-middle-y bg-primary text-white rounded py-1 px-3 ms-4">${category}</small>
                 </div>
                 <div class="p-4 mt-2">
